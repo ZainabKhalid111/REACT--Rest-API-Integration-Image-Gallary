@@ -1,0 +1,18 @@
+#main {
+  background-image: url("../../images/home_background.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 0;
+  color: white;
+}
+
+.main_page {
+  height: 100vh;
+  margin-top: 100px;
+}
+
+/* .trending {
+  margin-left: -168px;
+  margin-top: 10px;
+} */
